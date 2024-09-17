@@ -1,6 +1,7 @@
 # splsh_and_onboarding
 
 A new Flutter project.
+https://www.figma.com/design/V6Y0K9ziuvhD8nLlDIvK9B/Splash-and-Onboarding-(Community)?node-id=1-55&node-type=frame&t=enlBpjgbURU2swbt-0
 
 ## Getting Started
 
